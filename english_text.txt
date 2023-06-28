@@ -1,0 +1,10 @@
+In this paper, we consider a nonparametric adaptive
+software rejuvenation schedule under a random censored data.
+For u failure time data and v random censored data, we
+formulate upper and lower bounds of the predictive system
+availability based on a nonparametric predictive inference (NPI).
+Then, we derive adaptive rejuvenation policies which maximizes
+the upper or lower bound. In simulation experiments, we show
+that estimates of the software rejuvenation schedule are updated
+by acquisition of new failure data, and converge to the theoretical
+optimal solution.
